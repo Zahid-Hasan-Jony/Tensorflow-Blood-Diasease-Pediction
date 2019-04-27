@@ -1,0 +1,1 @@
+This is the machine learning tecnique that predict the diseases from training data.
